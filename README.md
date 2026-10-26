@@ -71,10 +71,6 @@ src/transcriber.py  calibration and the capture loop
 
 [@CSGai](https://github.com/CSGai)
 
-## 🤝 Contributing
-
-Pull requests are welcome.
-
 ## 📄 License
 
 [MIT](LICENSE) © Gai
